@@ -1,0 +1,8 @@
+com.example.easynotes
+com.glaucus.task
+com.glaucus.task.controller
+com.glaucus.task.controller.error
+com.glaucus.task.domain
+com.glaucus.task.dto
+com.glaucus.task.repository
+com.glaucus.task.service
