@@ -15,7 +15,7 @@ Build Restful GET and UPDATE APIs for a simple Number Increment application usin
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial.git
+git clone https://github.com/pankajgit1234/task-demo.git
 ```
 
 **2. Create Mysql database**
@@ -53,7 +53,7 @@ The app will start running at <http://localhost:<spring.port>/api/id/{id}> ie. h
 
 ## Explore Rest APIs
 
-The app defines following CRUD APIs.
+The app defines following GET and PUT APIs.
 
     GET /api/id/{id}
     
