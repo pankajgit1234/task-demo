@@ -62,8 +62,8 @@ public class TaskServiceImpl implements TaskService {
 	 * Method to set the incremented value .
 	 * 
 	 * @param id id of the number to be incremented.
-	 * @return void.
-	 * @throws ResourceNotFoundException 
+	 * @return NumberDto dto having id and updated value of the number.
+	 * 
 	 * 
 	 */
 

@@ -50,7 +50,7 @@ public class TaskController {
 	 * PUT /demo-task : save incremented Number based on id
 	 *
 	 * @param id id of the number
-	 * @throws ResourceNotFoundException 
+	 * @return NumberDto 
 	 * 
 	 */
 
